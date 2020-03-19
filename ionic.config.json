@@ -1,5 +1,7 @@
 {
   "name": "ionic-dynamic-links",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
